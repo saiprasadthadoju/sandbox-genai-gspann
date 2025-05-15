@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/sandbox-genai-gspann/:/",
+    "/content/sandbox-genai-gspann/configuration:/.helix/config.json",
+    "/content/sandbox-genai-gspann/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/sandbox-genai-gspann/"
   ]
 }
