@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
+    url: "https://author-p24152-e781460.adobeaemcloud.com/bin/franklin.delivery/saiprasadthadoju/sandbox-genai-gspann/main"
     type: "markup"
     suffix: ".html"
